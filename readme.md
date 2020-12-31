@@ -48,7 +48,7 @@ Texto descrevendo o projeto
 <img src="./img/img_readme/thome.jpg" width="100" height="100">
 
 **Roberto Thomé**
-- Meus projetos - [GitHub](https://github.com/)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/)
-- Minha vida - [Instagram](https://www.instagram.com/)
+- Meus projetos - [GitHub](https://github.com/ThomeDvlp)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/roberto-thome-58577b55/)
+- Minha vida - [Instagram](https://www.instagram.com/bethome78//)
 
