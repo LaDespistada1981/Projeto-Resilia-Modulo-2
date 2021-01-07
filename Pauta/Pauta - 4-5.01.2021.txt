@@ -1,0 +1,20 @@
+Reunião 04/01 
+
+1. Transferência de dados para o Workbench (encontramos algumas dificuldades)
+2. Tratar tabelas na importação (problemas com os caracteres quando transferidos pelo workbench)
+
+Reunião 05/01 
+
+1. Montagem do backlog 
+2. Definição de algumas perguntas para modelagem de dados
+
+Previsão para 06/01 
+
+1. Definição de quais tabelas serão utilizadas para respostas das perguntas
+2. Montagem das queries a serem utilizadas na consulta
+
+https://www.f1mania.net/f1/conheca-os-10-recordes-da-f1-que-provavelmente-nunca-serao-batidos/
+https://pt.wikipedia.org/wiki/Lista_de_recordes_da_F%C3%B3rmula_1
+https://globoesporte.globo.com/motor/formula-1/noticia/maior-vencedor-da-formula-1-lewis-hamilton-ainda-pode-derrubar-outros-recordes-veja.ghtml
+https://www.f1-fansite.com/pt/f1-results/f1-records-drivers/
+
