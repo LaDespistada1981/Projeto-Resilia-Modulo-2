@@ -34,9 +34,9 @@ Texto descrevendo o projeto
 <img src="./img/img_readme/mainara.jpg" width="100" height="100">
 
 **Mainara Assis**
-- Meus projetos - [GitHub](https://github.com/)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/)
-- Minha vida - [Instagram](https://www.instagram.com/)
+- Meus projetos - [GitHub](https://github.com/mainara07)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/mainara-assis-5800a38a/)
+- Minha vida - [Instagram](https://www.instagram.com/_mainara)
 
 <img src="./img/img_readme/roberta.jpg" width="100" height="100">
 
