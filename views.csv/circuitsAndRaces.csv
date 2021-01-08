@@ -1,0 +1,90 @@
+circuitId,raceId,country,name,grandPrix,year,date
+1,1,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",2009,2009-03-29
+2,2,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",2009,2009-04-05
+17,3,China,"Shanghai International Circuit","Chinese Grand Prix",2009,2009-04-19
+3,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",2009,2009-04-26
+4,5,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",2009,2009-05-10
+6,6,Monaco,"Circuit de Monaco","Monaco Grand Prix",2009,2009-05-24
+5,7,Turkey,"Istanbul Park","Turkish Grand Prix",2009,2009-06-07
+9,8,UK,"Silverstone Circuit","British Grand Prix",2009,2009-06-21
+20,9,Germany,N�_rburgring,"German Grand Prix",2009,2009-07-12
+11,10,Hungary,Hungaroring,"Hungarian Grand Prix",2009,2009-07-26
+12,11,Spain,"Valencia Street Circuit","European Grand Prix",2009,2009-08-23
+13,12,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",2009,2009-08-30
+14,13,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",2009,2009-09-13
+15,14,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",2009,2009-09-27
+22,15,Japan,"Suzuka Circuit","Japanese Grand Prix",2009,2009-10-04
+18,16,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",2009,2009-10-18
+24,17,UAE,"Yas Marina Circuit","Abu Dhabi Grand Prix",2009,2009-11-01
+1,18,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",2008,2008-03-16
+2,19,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",2008,2008-03-23
+3,20,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",2008,2008-04-06
+4,21,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",2008,2008-04-27
+5,22,Turkey,"Istanbul Park","Turkish Grand Prix",2008,2008-05-11
+6,23,Monaco,"Circuit de Monaco","Monaco Grand Prix",2008,2008-05-25
+7,24,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",2008,2008-06-08
+8,25,France,"Circuit de Nevers Magny-Cours","French Grand Prix",2008,2008-06-22
+9,26,UK,"Silverstone Circuit","British Grand Prix",2008,2008-07-06
+10,27,Germany,Hockenheimring,"German Grand Prix",2008,2008-07-20
+11,28,Hungary,Hungaroring,"Hungarian Grand Prix",2008,2008-08-03
+12,29,Spain,"Valencia Street Circuit","European Grand Prix",2008,2008-08-24
+13,30,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",2008,2008-09-07
+14,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",2008,2008-09-14
+15,32,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",2008,2008-09-28
+16,33,Japan,"Fuji Speedway","Japanese Grand Prix",2008,2008-10-12
+17,34,China,"Shanghai International Circuit","Chinese Grand Prix",2008,2008-10-19
+18,35,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",2008,2008-11-02
+1,36,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",2007,2007-03-18
+2,37,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",2007,2007-04-08
+3,38,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",2007,2007-04-15
+4,39,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",2007,2007-05-13
+6,40,Monaco,"Circuit de Monaco","Monaco Grand Prix",2007,2007-05-27
+7,41,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",2007,2007-06-10
+19,42,USA,"Indianapolis Motor Speedway","United States Grand Prix",2007,2007-06-17
+8,43,France,"Circuit de Nevers Magny-Cours","French Grand Prix",2007,2007-07-01
+9,44,UK,"Silverstone Circuit","British Grand Prix",2007,2007-07-08
+20,45,Germany,N�_rburgring,"European Grand Prix",2007,2007-07-22
+11,46,Hungary,Hungaroring,"Hungarian Grand Prix",2007,2007-08-05
+5,47,Turkey,"Istanbul Park","Turkish Grand Prix",2007,2007-08-26
+14,48,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",2007,2007-09-09
+13,49,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",2007,2007-09-16
+16,50,Japan,"Fuji Speedway","Japanese Grand Prix",2007,2007-09-30
+17,51,China,"Shanghai International Circuit","Chinese Grand Prix",2007,2007-10-07
+18,52,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",2007,2007-10-21
+3,53,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",2006,2006-03-12
+2,54,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",2006,2006-03-19
+1,55,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",2006,2006-04-02
+21,56,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",2006,2006-04-23
+20,57,Germany,N�_rburgring,"European Grand Prix",2006,2006-05-07
+4,58,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",2006,2006-05-14
+6,59,Monaco,"Circuit de Monaco","Monaco Grand Prix",2006,2006-05-28
+9,60,UK,"Silverstone Circuit","British Grand Prix",2006,2006-06-11
+7,61,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",2006,2006-06-25
+19,62,USA,"Indianapolis Motor Speedway","United States Grand Prix",2006,2006-07-02
+8,63,France,"Circuit de Nevers Magny-Cours","French Grand Prix",2006,2006-07-16
+10,64,Germany,Hockenheimring,"German Grand Prix",2006,2006-07-30
+11,65,Hungary,Hungaroring,"Hungarian Grand Prix",2006,2006-08-06
+5,66,Turkey,"Istanbul Park","Turkish Grand Prix",2006,2006-08-27
+14,67,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",2006,2006-09-10
+17,68,China,"Shanghai International Circuit","Chinese Grand Prix",2006,2006-10-01
+22,69,Japan,"Suzuka Circuit","Japanese Grand Prix",2006,2006-10-08
+18,70,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",2006,2006-10-22
+1,71,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",2005,2005-03-06
+2,72,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",2005,2005-03-20
+3,73,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",2005,2005-04-03
+21,74,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",2005,2005-04-24
+4,75,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",2005,2005-05-08
+6,76,Monaco,"Circuit de Monaco","Monaco Grand Prix",2005,2005-05-22
+20,77,Germany,N�_rburgring,"European Grand Prix",2005,2005-05-29
+7,78,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",2005,2005-06-12
+19,79,USA,"Indianapolis Motor Speedway","United States Grand Prix",2005,2005-06-19
+8,80,France,"Circuit de Nevers Magny-Cours","French Grand Prix",2005,2005-07-03
+9,81,UK,"Silverstone Circuit","British Grand Prix",2005,2005-07-10
+10,82,Germany,Hockenheimring,"German Grand Prix",2005,2005-07-24
+11,83,Hungary,Hungaroring,"Hungarian Grand Prix",2005,2005-07-31
+5,84,Turkey,"Istanbul Park","Turkish Grand Prix",2005,2005-08-21
+14,85,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",2005,2005-09-04
+13,86,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",2005,2005-09-11
+18,87,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",2005,2005-09-25
+22,88,Japan,"Suzuka Circuit","Japanese Grand Prix",2005,2005-10-09
+17,89,China,"Shanghai International Circuit","Chinese Grand Prix",2005,2005-10-16
