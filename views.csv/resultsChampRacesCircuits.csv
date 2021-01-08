@@ -1,0 +1,184 @@
+resultId,raceId,country,name,grandPrix,driverId,constructorId,number,grid,positionOrder,points,points,laps,time,fastestLapTime,fastestLapSpeed,statusId
+1,18,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",1,1,22,1,1,10,10,58,34:50.6,01:27.5,218.3,1
+3,18,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",3,3,7,7,3,6,6,58,8.163,01:28.1,216.719,1
+27,19,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",1,1,22,9,5,4,4,56,46.548,01:35.5,209.033,1
+32,19,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",18,11,16,11,10,0,0,56,+1:26.214,01:35.7,208.481,1
+33,19,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",12,4,6,13,11,0,0,56,+1:32.202,01:37.0,205.812,1
+52,20,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",3,3,7,8,8,1,1,57,55.889,01:34.1,207.109,1
+69,21,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",1,1,22,5,3,6,6,66,4.187,01:22.0,204.323,1
+72,21,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",18,11,16,13,6,3,3,66,53.01,01:22.4,203.489,1
+90,22,Turkey,"Istanbul Park","Turkish Grand Prix",1,1,22,3,2,8,8,58,3.779,01:26.5,222.085,1
+96,22,Turkey,"Istanbul Park","Turkish Grand Prix",3,3,7,11,8,1,1,58,+1:11.406,01:27.8,218.882,1
+109,23,Monaco,"Circuit de Monaco","Monaco Grand Prix",1,1,22,3,1,10,10,76,00:42.7,01:18.5,153.152,1
+113,23,Monaco,"Circuit de Monaco","Monaco Grand Prix",20,5,15,19,5,4,4,76,24.657,01:18.8,152.614,1
+136,24,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",20,5,15,19,8,1,1,70,54.12,01:18.5,199.913,1
+138,24,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",3,3,7,5,10,0,0,70,54.749,01:18.0,201.336,1
+139,24,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",18,11,16,20,11,0,0,70,+1:07.540,01:19.4,197.847,1
+155,25,France,"Circuit de Nevers Magny-Cours","French Grand Prix",12,4,6,9,7,2,2,70,41.033,01:17.8,204.218,1
+158,25,France,"Circuit de Nevers Magny-Cours","French Grand Prix",1,1,22,13,10,0,0,70,54.538,01:17.5,205.022,1
+160,25,France,"Circuit de Nevers Magny-Cours","French Grand Prix",20,5,15,12,12,0,0,70,58.065,01:17.8,204.212,1
+169,26,UK,"Silverstone Circuit","British Grand Prix",1,1,22,4,1,10,10,60,39:09.4,01:32.8,199.398,1
+189,27,Germany,Hockenheimring,"German Grand Prix",1,1,22,1,1,10,10,67,31:20.9,01:16.0,216.552,1
+190,27,Germany,Hockenheimring,"German Grand Prix",12,4,6,17,2,8,8,67,5.586,01:16.9,214.099,1
+196,27,Germany,Hockenheimring,"German Grand Prix",20,5,15,9,8,1,1,67,33.299,01:16.8,214.484,1
+198,27,Germany,Hockenheimring,"German Grand Prix",3,3,7,13,10,0,0,67,37.625,01:17.4,212.799,1
+213,28,Hungary,Hungaroring,"Hungarian Grand Prix",1,1,22,1,5,4,4,70,23.048,01:21.5,193.533,1
+214,28,Hungary,Hungaroring,"Hungarian Grand Prix",12,4,6,10,6,3,3,70,32.298,01:21.5,193.428,1
+230,29,Spain,"Valencia Street Circuit","European Grand Prix",1,1,22,2,2,8,8,57,5.611,01:38.9,197.285,1
+234,29,Spain,"Valencia Street Circuit","European Grand Prix",20,5,15,6,6,3,3,57,52.625,01:39.5,196.093,1
+236,29,Spain,"Valencia Street Circuit","European Grand Prix",3,3,7,9,8,1,1,57,+1:11.457,01:39.6,195.912,1
+239,29,Spain,"Valencia Street Circuit","European Grand Prix",12,4,6,15,11,0,0,57,+1:32.717,01:39.5,195.977,1
+251,30,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",1,1,22,1,3,6,6,44,10.539,01:48.1,233.175,1
+253,30,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",20,5,15,10,5,4,4,44,14.576,01:49.1,231.142,1
+269,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",20,5,15,1,1,10,10,53,26:47.5,01:30.5,230.414,1
+275,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",1,1,22,15,7,2,2,53,29.912,01:29.7,232.44,1
+278,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",12,4,6,17,10,0,0,53,54.445,01:30.9,229.38,1
+282,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",3,3,7,5,14,0,0,53,+1:08.635,01:30.0,231.671,1
+283,31,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",18,11,16,19,15,0,0,53,+1:13.370,01:29.8,232.166,1
+290,32,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",3,3,7,8,2,8,8,61,2.957,01:46.5,171.352,1
+291,32,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",1,1,22,2,3,6,6,61,5.917,01:46.1,171.969,1
+293,32,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",20,5,15,6,5,4,4,61,10.268,01:47.3,170.047,1
+297,32,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",18,11,16,12,9,0,0,61,19.885,01:48.1,168.7,1
+312,33,Japan,"Fuji Speedway","Japanese Grand Prix",12,4,6,12,4,5,5,67,20.57,01:19.2,207.411,1
+314,33,Japan,"Fuji Speedway","Japanese Grand Prix",20,5,15,9,6,3,3,67,39.207,01:19.6,206.322,1
+319,33,Japan,"Fuji Speedway","Japanese Grand Prix",3,3,7,15,11,0,0,67,+1:02.096,01:19.5,206.545,1
+320,33,Japan,"Fuji Speedway","Japanese Grand Prix",1,1,22,1,12,0,0,67,+1:18.900,01:19.6,206.47,1
+329,34,China,"Shanghai International Circuit","Chinese Grand Prix",1,1,22,1,1,10,10,56,31:57.4,01:36.3,203.722,1
+336,34,China,"Shanghai International Circuit","Chinese Grand Prix",12,4,6,10,8,1,1,56,56.645,01:37.0,202.313,1
+337,34,China,"Shanghai International Circuit","Chinese Grand Prix",20,5,15,6,9,0,0,56,+1:04.339,01:37.2,201.863,1
+352,35,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",20,5,15,7,4,5,5,71,38.011,01:14.2,209.022,1
+353,35,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",1,1,22,4,5,4,4,71,38.907,01:14.2,209.177,1
+371,36,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",1,1,2,4,3,6,6,58,18.595,01:26.4,221.083,1
+392,37,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",1,1,2,4,2,8,8,56,17.557,01:36.7,206.355,1
+414,38,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",1,1,2,2,2,8,8,57,2.36,01:34.3,206.674,1
+422,38,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",3,3,16,10,10,0,0,57,+1:29.916,01:35.6,203.893,1
+436,39,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",1,1,2,4,2,8,8,65,6.79,01:22.9,202.205,1
+440,39,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",3,3,16,11,6,3,3,65,59.538,01:23.7,200.231,1
+458,40,Monaco,"Circuit de Monaco","Monaco Grand Prix",1,1,2,2,2,8,8,78,4.095,01:15.4,159.528,1
+479,41,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",1,1,2,1,1,10,10,70,44:11.3,01:16.5,205.239,1
+488,41,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",3,3,16,7,10,0,0,70,23.984,01:17.2,203.478,1
+501,42,USA,"Indianapolis Motor Speedway","United States Grand Prix",1,1,2,1,1,10,10,73,31:10.0,01:13.2,206.101,1
+508,42,USA,"Indianapolis Motor Speedway","United States Grand Prix",20,2,10,7,8,1,1,73,67.7,01:13.9,204.316,1
+525,43,France,"Circuit de Nevers Magny-Cours","French Grand Prix",1,1,2,2,3,6,6,70,32.153,01:16.6,207.34,1
+530,43,France,"Circuit de Nevers Magny-Cours","French Grand Prix",18,11,7,12,8,1,1,70,58.885,01:16.8,206.846,1
+531,43,France,"Circuit de Nevers Magny-Cours","French Grand Prix",3,3,16,9,9,0,0,70,+1:08.505,01:17.0,206.199,1
+547,44,UK,"Silverstone Circuit","British Grand Prix",1,1,2,1,3,6,6,59,39.373,01:21.7,226.6,1
+589,46,Hungary,Hungaroring,"Hungarian Grand Prix",1,1,2,1,1,10,10,70,35:53.0,01:20.2,196.724,1
+595,46,Hungary,Hungaroring,"Hungarian Grand Prix",3,3,16,4,7,2,2,70,59.139,01:20.7,195.502,1
+615,47,Turkey,"Istanbul Park","Turkish Grand Prix",1,1,2,2,5,4,4,58,45.085,01:28.0,218.464,1
+617,47,Turkey,"Istanbul Park","Turkish Grand Prix",3,3,16,8,7,2,2,58,55.778,01:28.5,217.05,1
+634,48,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",1,1,2,2,2,8,8,53,6.062,01:22.9,251.456,1
+638,48,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",3,3,16,8,6,3,3,53,+1:05.810,01:24.5,246.884,1
+640,48,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",18,11,7,10,8,1,1,53,+1:02.168,01:24.5,246.708,1
+658,49,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",1,1,2,4,4,5,5,44,23.615,01:48.2,233.002,1
+660,49,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",3,3,16,5,6,3,3,44,+1:16.876,01:49.8,229.704,1
+677,50,Japan,"Fuji Speedway","Japanese Grand Prix",1,1,2,1,1,10,10,67,00:34.6,01:28.2,186.259,1
+702,51,China,"Shanghai International Circuit","Chinese Grand Prix",20,5,19,17,4,5,5,56,53.509,01:39.9,196.452,1
+703,51,China,"Shanghai International Circuit","Chinese Grand Prix",18,11,7,10,5,4,4,56,+1:08.666,01:38.9,198.392,1
+724,52,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",3,3,16,10,4,5,5,71,+1:02.848,01:13.2,212.036,1
+744,53,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",30,6,5,1,2,8,8,57,1.246,01:32.5,210.576,1
+746,53,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",18,11,12,3,4,5,5,57,19.992,01:32.7,210.109,1
+749,53,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",3,3,10,12,7,2,2,57,+1:03.043,01:32.4,210.838,1
+767,54,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",18,11,12,2,3,6,6,56,9.631,01:35.6,208.723,1
+770,54,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",30,6,5,14,6,3,3,56,43.854,01:35.6,208.629,1
+809,56,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",30,6,5,1,1,10,10,62,31:06.5,01:24.6,210.961,1
+815,56,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",18,11,12,2,7,2,2,62,39.635,01:25.3,209.174,1
+819,56,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",3,3,10,13,11,0,0,62,+1:19.675,01:26.4,206.581,1
+831,57,Germany,N�_rburgring,"European Grand Prix",30,6,5,2,1,10,10,60,35:58.8,01:32.1,201.226,1
+837,57,Germany,N�_rburgring,"European Grand Prix",3,3,10,22,7,2,2,60,+1:14.565,01:33.6,198.044,1
+854,58,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",30,6,5,3,2,8,8,66,18.502,01:16.9,216.546,1
+858,58,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",18,11,12,8,6,3,3,66,58.347,01:17.4,215.301,1
+879,59,Monaco,"Circuit de Monaco","Monaco Grand Prix",30,6,5,22,5,4,4,78,53.83,01:15.1,160.014,1
+898,60,UK,"Silverstone Circuit","British Grand Prix",30,6,5,3,2,8,8,60,13.951,01:21.9,225.884,1
+905,60,UK,"Silverstone Circuit","British Grand Prix",3,3,10,12,9,0,0,60,+1:19.008,01:22.9,223.209,1
+920,61,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",30,6,5,5,2,8,8,70,2.1,01:16.0,206.592,1
+941,62,USA,"Indianapolis Motor Speedway","United States Grand Prix",30,6,5,1,1,10,10,73,34:35.2,01:12.7,207.527,1
+963,63,France,"Circuit de Nevers Magny-Cours","French Grand Prix",30,6,5,1,1,10,10,70,32:07.8,01:17.1,205.931,1
+985,64,Germany,Hockenheimring,"German Grand Prix",30,6,5,2,1,10,10,67,27:51.7,01:16.4,215.65,1
+988,64,Germany,Hockenheimring,"German Grand Prix",18,11,12,4,4,5,5,67,18.8,01:16.8,214.356,1
+1007,65,Hungary,Hungaroring,"Hungarian Grand Prix",18,11,12,14,1,10,10,70,52:20.9,01:25.1,185.236,1
+1031,66,Turkey,"Istanbul Park","Turkish Grand Prix",30,6,5,2,3,6,6,58,5.656,01:28.0,218.36,1
+1032,66,Turkey,"Istanbul Park","Turkish Grand Prix",18,11,12,6,4,5,5,58,12.334,01:28.5,217.202,1
+1051,67,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",30,6,5,2,1,10,10,53,14:52.0,01:22.6,252.555,1
+1055,67,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",18,11,12,5,5,4,4,53,32.685,01:23.5,249.704,1
+1073,68,China,"Shanghai International Circuit","Chinese Grand Prix",30,6,5,6,1,10,10,56,37:32.7,01:38.6,199.117,1
+1076,68,China,"Shanghai International Circuit","Chinese Grand Prix",18,11,12,4,4,5,5,56,72.056,01:39.2,197.806,1
+1098,69,Japan,"Suzuka Circuit","Japanese Grand Prix",18,11,12,7,4,5,5,53,34.101,01:33.5,223.702,1
+1119,70,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",18,11,12,14,3,6,6,71,19.394,01:13.1,212.344,1
+1120,70,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",30,6,5,10,4,5,5,71,24.094,01:12.2,214.966,1
+1165,72,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",30,6,1,13,7,2,2,56,+1:19.988,01:37.0,205.757,1
+1200,74,Italy,"Autodromo Enzo e Dino Ferrari","San Marino Grand Prix",30,6,1,13,2,8,8,62,0.215,01:21.9,216.946,1
+1243,76,Monaco,"Circuit de Monaco","Monaco Grand Prix",30,6,1,8,7,2,2,78,37.223,01:15.8,158.54,1
+1259,77,Germany,N�_rburgring,"European Grand Prix",30,6,1,10,5,4,4,59,50.445,01:31.5,202.537,1
+1264,77,Germany,N�_rburgring,"European Grand Prix",18,16,3,13,10,0,0,59,+1:35.786,01:32.0,201.542,1
+1276,78,Canada,"Circuit Gilles Villeneuve","Canadian Grand Prix",30,6,1,2,2,8,8,70,1.1,01:14.9,209.697,1
+1295,79,USA,"Indianapolis Motor Speedway","United States Grand Prix",30,6,1,5,1,10,10,73,29:43.2,01:11.5,211.074,1
+1317,80,France,"Circuit de Nevers Magny-Cours","French Grand Prix",30,6,1,3,3,6,6,70,+1:21.9,01:17.7,204.333,1
+1339,81,UK,"Silverstone Circuit","British Grand Prix",18,16,3,2,5,4,4,60,40.3,01:22.0,225.721,1
+1340,81,UK,"Silverstone Circuit","British Grand Prix",30,6,1,9,6,3,3,60,+1:15.3,01:21.7,226.6,1
+1357,82,Germany,Hockenheimring,"German Grand Prix",18,16,3,2,3,6,6,67,24.422,01:15.8,217.111,1
+1359,82,Germany,Hockenheimring,"German Grand Prix",30,6,1,5,5,4,4,67,51.69,01:16.1,216.381,1
+1376,83,Hungary,Hungaroring,"Hungarian Grand Prix",30,6,1,1,2,8,8,70,35.581,01:21.5,193.573,1
+1379,83,Hungary,Hungaroring,"Hungarian Grand Prix",18,16,3,8,5,4,4,70,58.832,01:22.4,191.388,1
+1399,84,Turkey,"Istanbul Park","Turkish Grand Prix",18,16,3,13,5,4,4,58,39.304,01:25.8,223.998,1
+1422,85,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",18,16,3,3,8,1,1,53,+1:03.635,01:23.2,250.776,1
+1424,85,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",30,6,1,6,10,0,0,53,+1:36.070,01:23.6,249.507,1
+1437,86,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",18,16,3,8,3,6,6,44,32,01:53.3,221.61,1
+1458,87,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",30,6,1,7,4,5,5,71,35.668,01:12.8,213.082,1
+1479,88,Japan,"Suzuka Circuit","Japanese Grand Prix",18,16,3,2,5,4,4,53,29.507,01:32.8,225.383,1
+1481,88,Japan,"Suzuka Circuit","Japanese Grand Prix",30,6,1,14,7,2,2,53,33.879,01:32.8,225.361,1
+1502,89,China,"Shanghai International Circuit","Chinese Grand Prix",18,16,3,4,8,1,1,56,41.2,01:34.8,207.074,1
+7554,1,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",18,23,22,1,1,10,10,58,34:15.8,01:28.0,216.891,1
+7559,1,Australia,"Albert Park Grand Prix Circuit","Australian Grand Prix",3,3,16,5,6,3,3,58,5.722,01:27.7,217.668,1
+7574,2,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",18,23,22,1,1,5,5,31,10:52.1,01:36.6,206.483,1
+7580,2,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",1,1,1,12,7,1,1,31,+1:00.733,01:39.1,201.276,1
+7581,2,Malaysia,"Sepang International Circuit","Malaysian Grand Prix",3,3,16,4,8,1,1,31,+1:11.576,01:37.6,204.459,1
+7594,3,China,"Shanghai International Circuit","Chinese Grand Prix",20,9,15,1,1,10,10,56,57:43.5,01:52.6,174.235,1
+7596,3,China,"Shanghai International Circuit","Chinese Grand Prix",18,23,22,5,3,6,6,56,44.975,01:53.5,172.825,1
+7599,3,China,"Shanghai International Circuit","Chinese Grand Prix",1,1,1,9,6,3,3,56,+1:11.866,01:54.7,171.138,1
+7614,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",18,23,22,4,1,10,10,57,31:48.2,01:34.6,205.979,1
+7615,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",20,9,15,3,2,8,8,57,7.187,01:34.8,205.614,1
+7617,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",1,1,1,5,4,5,5,57,22.096,01:34.9,205.269,1
+7622,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",3,3,16,9,9,0,0,57,58.198,01:35.8,203.339,1
+7623,4,Bahrain,"Bahrain International Circuit","Bahrain Grand Prix",12,4,8,15,10,0,0,57,+1:05.149,01:35.4,204.138,1
+7634,5,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",18,23,22,1,1,10,10,66,37:19.2,01:22.9,202.149,1
+7637,5,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",20,9,15,2,4,5,5,66,18.941,01:23.1,201.684,1
+7641,5,Spain,"Circuit de Barcelona-Catalunya","Spanish Grand Prix",3,3,16,9,8,1,1,66,+1:05.211,01:23.6,200.404,1
+7654,6,Monaco,"Circuit de Monaco","Monaco Grand Prix",18,23,22,1,1,10,10,78,40:44.3,01:15.2,159.914,1
+7659,6,Monaco,"Circuit de Monaco","Monaco Grand Prix",3,3,16,6,6,3,3,78,33.586,01:15.8,158.686,1
+7674,7,Turkey,"Istanbul Park","Turkish Grand Prix",18,23,22,2,1,10,10,58,26:24.8,01:27.6,219.422,1
+7676,7,Turkey,"Istanbul Park","Turkish Grand Prix",20,9,15,1,3,6,6,58,7.461,01:27.6,219.314,1
+7678,7,Turkey,"Istanbul Park","Turkish Grand Prix",3,3,16,9,5,4,4,58,31.539,01:28.2,217.823,1
+7686,7,Turkey,"Istanbul Park","Turkish Grand Prix",1,1,1,16,13,0,0,58,+1:20.454,01:28.6,216.986,1
+7694,8,UK,"Silverstone Circuit","British Grand Prix",20,9,15,1,1,10,10,60,22:49.3,01:20.7,229.238,1
+7698,8,UK,"Silverstone Circuit","British Grand Prix",3,3,16,7,5,4,4,60,45.915,01:21.1,228.336,1
+7699,8,UK,"Silverstone Circuit","British Grand Prix",18,23,22,6,6,3,3,60,46.285,01:21.2,227.956,1
+7715,9,Germany,N�_rburgring,"German Grand Prix",20,9,15,4,2,8,8,60,9.252,01:34.1,196.97,1
+7717,9,Germany,N�_rburgring,"German Grand Prix",3,3,16,15,4,5,5,60,21.099,01:34.4,196.315,1
+7718,9,Germany,N�_rburgring,"German Grand Prix",18,23,22,3,5,4,4,60,23.609,01:34.3,196.63,1
+7726,9,Germany,N�_rburgring,"German Grand Prix",12,4,8,10,13,0,0,60,+1:08.328,01:34.9,195.337,1
+7734,10,Hungary,Hungaroring,"Hungarian Grand Prix",1,1,1,4,1,10,10,70,38:23.9,01:22.5,191.219,1
+7737,10,Hungary,Hungaroring,"Hungarian Grand Prix",3,3,16,5,4,5,5,70,26.967,01:22.5,191.245,1
+7740,10,Hungary,Hungaroring,"Hungarian Grand Prix",18,23,22,8,7,2,2,70,55.088,01:22.7,190.694,1
+7745,10,Hungary,Hungaroring,"Hungarian Grand Prix",12,4,8,14,12,0,0,70,+1:11.512,01:23.4,189.067,1
+7755,11,Spain,"Valencia Street Circuit","European Grand Prix",1,1,1,1,2,8,8,57,2.358,01:39.1,196.943,1
+7758,11,Spain,"Valencia Street Circuit","European Grand Prix",3,3,16,7,5,4,4,57,20.87,01:39.3,196.401,1
+7760,11,Spain,"Valencia Street Circuit","European Grand Prix",18,23,22,5,7,2,2,57,34.913,01:38.9,197.305,1
+7776,12,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",20,9,15,8,3,6,6,44,3.875,01:47.3,235.07,1
+7781,12,Belgium,"Circuit de Spa-Francorchamps","Belgian Grand Prix",3,3,16,10,8,1,1,44,36.208,01:47.8,233.973,1
+7795,13,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",18,23,22,6,2,8,8,53,2.866,01:24.9,245.538,1
+7801,13,Italy,"Autodromo Nazionale di Monza","Italian Grand Prix",20,9,15,9,8,1,1,53,+1:25.407,01:25.2,244.791,1
+7814,14,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",1,1,1,1,1,10,10,61,56:06.3,01:48.3,168.561,1
+7817,14,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",20,9,15,2,4,5,5,61,20.621,01:48.4,168.479,1
+7818,14,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",18,23,22,11,5,4,4,61,30.015,01:48.4,168.524,1
+7824,14,Singapore,"Marina Bay Street Circuit","Singapore Grand Prix",3,3,16,3,11,0,0,61,59.777,01:48.4,168.55,1
+7834,15,Japan,"Suzuka Circuit","Japanese Grand Prix",20,9,15,1,1,10,10,53,28:20.4,01:32.6,225.826,1
+7836,15,Japan,"Suzuka Circuit","Japanese Grand Prix",1,1,1,3,3,6,6,53,6.472,01:33.3,224.162,1
+7838,15,Japan,"Suzuka Circuit","Japanese Grand Prix",3,3,16,7,5,4,4,53,8.793,01:33.6,223.358,1
+7841,15,Japan,"Suzuka Circuit","Japanese Grand Prix",18,23,22,10,8,1,1,53,11.474,01:33.3,224.182,1
+7856,16,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",1,1,1,17,3,6,6,71,18.944,01:14.3,208.654,1
+7857,16,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",20,9,15,15,4,5,5,71,19.652,01:13.9,209.939,1
+7858,16,Brazil,"Aut�_dromo Jos̩ Carlos Pace","Brazilian Grand Prix",18,23,22,14,5,4,4,71,29.005,01:14.4,208.631,1
+16067,17,UAE,"Yas Marina Circuit","Abu Dhabi Grand Prix",20,9,15,2,1,10,10,55,34:03.4,01:40.3,199.387,1
+16069,17,UAE,"Yas Marina Circuit","Abu Dhabi Grand Prix",18,23,22,5,3,6,6,55,18.467,01:40.6,198.668,1
+16075,17,UAE,"Yas Marina Circuit","Abu Dhabi Grand Prix",3,3,16,9,9,0,0,55,45.941,01:41.0,197.97,1
