@@ -19,8 +19,8 @@ Texto descrevendo o projeto
   
 **Augusto Torres**
   
-  - Meus projetos - [GitHub](https://github.com/)
-  - Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/)
+  - Meus projetos - [GitHub](https://github.com/Daos7623)
+  - Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/augustoftorres/)
   - Minha vida - [Instagram](https://www.instagram.com/)
 
   
