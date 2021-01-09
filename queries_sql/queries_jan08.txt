@@ -1,0 +1,35 @@
+-- 15 - Quem passou por mais equipes?
+SELECT COUNT(DISTINCT constructorschamp.constructorRef) as equipes, driverschamp.driverRef AS piloto 
+FROM resultschamp 
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultschamp.driverId
+INNER JOIN constructorschamp
+ON constructorschamp.constructorId = resultschamp.constructorId
+GROUP BY piloto
+ORDER BY equipes DESC;
+
+-- 14 - Por quais equipes correram?
+SELECT DISTINCT resultschamp.constructorId, constructorschamp.constructorRef, driverschamp.driverRef AS piloto 
+FROM resultschamp 
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultschamp.driverId
+INNER JOIN constructorschamp
+ON constructorschamp.constructorId = resultschamp.constructorId
+ORDER BY piloto;
+
+-- 2 - Maior número de vitórias
+SELECT count(resultschamp.position) AS vitorias, driverschamp.driverId, driverschamp.driverRef as piloto 
+FROM resultschamp 
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultschamp.driverId
+WHERE statusId=1 AND position=1 group by driverId order by vitorias DESC;
+
+
+SELECT COUNT(DISTINCT constructorschamp.constructorRef) as equipes, driverschamp.driverRef AS piloto 
+FROM resultschamp 
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultschamp.driverId
+INNER JOIN constructorschamp
+ON constructorschamp.constructorId = resultschamp.constructorId
+GROUP BY piloto
+ORDER BY equipes DESC;
