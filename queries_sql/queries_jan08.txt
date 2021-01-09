@@ -1,3 +1,6 @@
+-- Comando baixo permite que a query por GROUP BY possa rodar no docker compose
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+
 -- 2 - Maior número de vitórias
 SELECT count(resultschamp.position) AS vitorias, driverschamp.driverId, driverschamp.driverRef as piloto 
 FROM resultschamp 
@@ -15,6 +18,7 @@ ON constructorschamp.constructorId = resultschamp.constructorId
 ORDER BY piloto;
 
 -- 15 - Quem passou por mais equipes?
+
 SELECT COUNT(DISTINCT constructorschamp.constructorRef) as equipes, driverschamp.driverRef AS piloto 
 FROM resultschamp 
 INNER JOIN driverschamp
