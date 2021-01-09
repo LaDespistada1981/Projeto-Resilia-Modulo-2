@@ -1,0 +1,31 @@
+Perguntas 
+
+
+1 - Quem tem mais títulos
+2 - Maior número de vitórias
+3 - Maior número de pontos
+4 - Maior número de pole positions (Hat Tricks)
+5 - Quem fez mais corridas perfeitas (Grand Chelem) - pole, volta + rápida e vitória de ponta a ponta
+6 - Maior número de pole positions consecutivas.
+7 - Maior número de primeiras filas consecutivas
+8 - Melhor média de aproveitamento (corridas disputadas x vitórias e pontos x temporada)
+9 - Em quanto tempo conquistou os títulos?
+10 - Maior número de vítorias em uma mesma temporada
+11 - Quem disputou mais corridas?
+12 - Quem disputou mais temporadas?
+13 - Quem venceu em mais circuitos ?
+14 - Por quais equipes correram?
+15 - Quem passou por mais equipes?
+16 - Quem se manteve por mais tempo em uma mesma equipe?
+17 - Quantos títulos obteve por cada equipe?
+18- ranking dos 5 pilotos que permaneceram por mais tempo na categoria
+20- qual escuderia marcou o maior número de pontos em um único campeonato (fazer um ranking das 5 maiores em suas respectivas temporadas)
+21- Idade média de ingresso de pilotos na F1
+22- Qual o Piloto mais Jovem a ingressar na categoria
+23- Qual Piloto mais velho a correr na F1
+24- Construtores que nunca pontuaram
+25- Ranking de Nacionalidade de construtores
+26- Qual país produziu o maior número de pilotos
+27- Qual país produziu o maior número de campeões de campeonatos
+29- Ranking de países, mundiais de construtores
+28- Ranking de títulos mundiais por país

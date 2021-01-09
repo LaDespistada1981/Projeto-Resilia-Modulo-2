@@ -1,4 +1,4 @@
-Reunião 04/01 
+﻿Reunião 04/01 
 
 1. Transferência de dados para o Workbench (encontramos algumas dificuldades)
 2. Tratar tabelas na importação (problemas com os caracteres quando transferidos pelo workbench)
@@ -18,3 +18,21 @@ https://pt.wikipedia.org/wiki/Lista_de_recordes_da_F%C3%B3rmula_1
 https://globoesporte.globo.com/motor/formula-1/noticia/maior-vencedor-da-formula-1-lewis-hamilton-ainda-pode-derrubar-outros-recordes-veja.ghtml
 https://www.f1-fansite.com/pt/f1-results/f1-records-drivers/
 
+Pauta 06/01 
+
+1. Tratamento de tabelas 
+2. Roberta testou queries 
+
+Pauta 07/01 
+1. Limpeza de dados da tabela 
+2. Infra docker-compose no pc do Augusto 
+3. Finalização da montagem do banco 
+
+Pauta 08/01
+
+1. Inicio das queries 
+2. Troca de queries para inicio do dashboard 
+
+Pauta 09/01 
+1. Montagem de queries em andamento 
+2. Inicio da montagem do dashboard
