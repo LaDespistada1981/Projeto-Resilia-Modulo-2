@@ -1,4 +1,5 @@
--- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY','ONLY_FULL_ORDER_BY'));
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_ORDER_BY',''));
 
 -- 1 - Quem tem mais títulos
 SELECT max(vitorias), driverRef FROM (
@@ -131,6 +132,15 @@ ORDER BY `year`, pontos DESC) as b
 GROUP BY  `year`) as c
 GROUP BY driverRef;
 
+
+-- Quantidade de Equipes x Paises
+SELECT constructorschamp.nationality as Nacionalidade, countriesnationalitieschamps.country as `País` ,count(constructorschamp.nationality) as `Equipes x Paises`
+FROM f1_champs.constructorschamp
+INNER JOIN f1_champs.countriesnationalitieschamps
+ON constructorschamp.nationality = countriesnationalitieschamps.nationality
+GROUP BY countriesnationalitieschamps.country
+HAVING count(constructorschamp.nationality)
+ORDER BY `Equipes x Paises` DESC;
 
 
 
