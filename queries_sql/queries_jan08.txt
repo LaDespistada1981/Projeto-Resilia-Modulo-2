@@ -1,5 +1,6 @@
 -- Comando baixo permite que a query por GROUP BY possa rodar no docker compose
 -- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_ORDER_BY',''));
 
 -- 2 - Maior número de vitórias
 SELECT count(resultschamp.position) AS vitorias, driverschamp.driverId, driverschamp.driverRef as piloto 
