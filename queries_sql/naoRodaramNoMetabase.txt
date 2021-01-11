@@ -1,0 +1,99 @@
+-- 2 - Maior número de vitórias
+SELECT count(resultschamp.position) AS vitorias, driverschamp.driverId, driverschamp.driverRef as piloto 
+FROM resultschamp 
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultschamp.driverId
+WHERE statusId=1 AND position=1 group by driverId order by vitorias DESC;
+
+
+-- 3 - Maior número de pontos
+select max(pontos) as MaiorPontuacao, driverRef as driver FROM(
+SELECT sum(Points) as pontos, driverRef
+FROM f1_champs.raceschamp as corridas
+INNER JOIN resultschamp as resultado
+ON corridas.raceId=resultado.raceId
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultado.driverId
+group by resultado.driverId,`year`
+HAVING sum(Points) <> 0
+ORDER BY pontos DESC) as c;
+
+
+-- Pontuação Anual por piloto
+SELECT sum(Points) as pontos, driverRef, `year`
+FROM f1_champs.raceschamp as corridas
+INNER JOIN resultschamp as resultado
+ON corridas.raceId=resultado.raceId
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultado.driverId
+group by resultado.driverId,`year`
+HAVING sum(Points) <> 0
+
+
+-- Campeões por ano (pontuação)
+SELECT max(pontos), driverRef, `year` FROM (
+SELECT sum(Points) as pontos, driverRef, `year`
+FROM f1_champs.raceschamp as corridas
+INNER JOIN resultschamp as resultado
+ON corridas.raceId=resultado.raceId
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultado.driverId
+group by resultado.driverId,`year`
+HAVING sum(Points) <> 0
+ORDER BY `year`, pontos DESC) as b
+GROUP BY  `year`;
+
+
+-- Média de pontuação por temporada de todos os campeões
+SELECT AVG(Points) AS pontos, driverRef, `year`
+FROM f1_champs.raceschamp as corridas
+INNER JOIN resultschamp as resultado
+ON corridas.raceId=resultado.raceId
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultado.driverId
+group by resultado.driverId,`year`
+HAVING sum(Points) <> 0
+ORDER BY `year`, pontos DESC;
+
+
+-- Títulos de cada piloto
+SELECT count(*) AS TÍTULOS, driverRef AS PILOTO FROM (
+SELECT max(pontos) as pontuacao, driverRef, `year` FROM (
+SELECT sum(Points) as pontos, driverRef, `year`
+FROM f1_champs.raceschamp as corridas
+INNER JOIN resultschamp as resultado
+ON corridas.raceId=resultado.raceId
+INNER JOIN driverschamp
+ON driverschamp.driverId = resultado.driverId
+group by resultado.driverId,`year`
+HAVING sum(Points) <> 0
+ORDER BY `year`, pontos DESC) as b
+GROUP BY  `year`) as c
+GROUP BY driverRef;
+
+
+-- Quantidade de Equipes x Paises
+SELECT constructorschamp.nationality as Nacionalidade, countriesnationalitieschamps.country as `País` ,count(constructorschamp.nationality) as `Equipes x Paises`
+FROM f1_champs.constructorschamp
+INNER JOIN f1_champs.countriesnationalitieschamps
+ON constructorschamp.nationality = countriesnationalitieschamps.nationality
+GROUP BY countriesnationalitieschamps.country
+HAVING count(constructorschamp.nationality)
+ORDER BY `Equipes x Paises` DESC;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORDER BY `year`;
