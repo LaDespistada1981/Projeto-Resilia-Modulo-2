@@ -1,9 +1,21 @@
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+-- SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_ORDER_BY',''));
+
 -- 2 - Maior número de vitórias
-SELECT count(resultschamp.position) AS vitorias, driverschamp.driverId, driverschamp.driverRef as piloto 
-FROM resultschamp 
-INNER JOIN driverschamp
-ON driverschamp.driverId = resultschamp.driverId
-WHERE statusId=1 AND position=1 group by driverId order by vitorias DESC;
+SELECT 
+	dvrcmp.driverId,
+    dvrcmp.driverRef as `nome piloto`,
+	count(rescmp.position) AS `#vitorias`
+FROM 
+	resultschamp rescmp
+INNER JOIN driverschamp dvrcmp
+	ON dvrcmp.driverId = rescmp.driverId
+WHERE statusId=1 AND position=1 
+group by 
+	dvrcmp.driverId,
+    dvrcmp.driverRef
+order by 
+	`#vitorias` DESC;
 
 
 -- 3 - Maior número de pontos
