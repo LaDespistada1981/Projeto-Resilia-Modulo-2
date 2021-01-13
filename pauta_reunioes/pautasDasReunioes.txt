@@ -36,3 +36,80 @@ Pauta 08/01
 Pauta 09/01 
 1. Montagem de queries em andamento 
 2. Inicio da montagem do dashboard
+
+Pauta 10/01
+1. Algumas queries não funcionaram no metabase (pedir ajuda - JP, Streva/Luiz)
+2. Análise de queries/dashboards
+
+Pauta 11/01
+1. Nada retornardo 
+2. Augusto não conseguiu fazer queries de anos 
+3. Gil está estudando materias atrasadas
+4. Elaboração de apresentação
+
+Pauta 12/01 
+1. Status Roberto Thome: 
+Eu Fiz: 
+
+ajudei a tratar os dados, consegui fazer um gráficos no dashboard.  
+Estudei todas as aulas da alura pra MySQL iniciante e Avançado. 
+Pedi ajuda ao Alexandre sobre MySQL (mas não resolveu minhas dúvidas). 
+Me reuni com o Erick que me ajudou muitíssimo, e está a disposição de poder nos ajudar tbm.  
+
+
+
+Estou fazendo: 
+Queries pelo metabase (sem compartilhamento)  e montando dashboard (sem compartilhamento) . 
+
+
+
+Vou fazer: 
+
+Mais queries, e ajudar a trabalhar na apresentação do trabalho.
+
+
+
+Dificuldades: 
+- Comunicação entre a equipe. 
+
+-As poucas reuniões foram improdutivas. 
+
+-A falta de reuniões produtivas e rápidas. 
+
+-A minha falta  de conhecimentos técnicos pra fazer as queries pelo MySQL. 
+
+
+2. Status Roberta:Meu status da daily: 
+
+Eu fiz: o tratamento de tabelas, criei tabela auxiliar, subi o banco, as atualizações do Trello, algumas queries e 
+dashes no metabase com a ajuda da Mainara e está td no github.
+
+
+
+Estou fazendo: a apresentação.
+
+
+
+Vou fazer: alguns dashes e seguir com a apresentação. 
+
+
+
+Dificuldades: Excesso de trabalho, poucas horas de sono e excesso de reuniões com nenhum aproveitamento
+
+3. Status Mainara: 
+
+Eu fiz: queries e montagem de alguns dashes pelo metabase 
+
+
+
+Estou fazendo: outras queries e acertando as queries que não estão rodando no metabase 
+
+
+
+Vou fazer: alguns dashes e auxiliar na montagem da apresentação (com a escolha dos que apresentem melhor o trabalho)
+
+
+
+Dificuldades: Montagem de todas as queries sozinha, pois vejo dificuldades no andamento dessa tarefa.
+
+OBSERVAÇÕES: Falta Gil fazer as alterações no GitHub (criar branch e clonar o repositório) 

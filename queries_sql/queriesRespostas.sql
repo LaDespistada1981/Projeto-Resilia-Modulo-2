@@ -14,7 +14,7 @@ INNER JOIN constructorschamp
 ON constructorschamp.constructorId = resultschamp.constructorId
 ORDER BY piloto;
 
--- 15 - Quem passou por mais equipes?
+-- Quem passou por mais equipes?
 SELECT COUNT(DISTINCT constructorschamp.constructorRef) as equipes, driverschamp.driverRef AS piloto 
 FROM resultschamp 
 INNER JOIN driverschamp
@@ -107,6 +107,35 @@ HAVING sum(Points) <> 0
 ORDER BY `year`, pontos DESC) as b
 GROUP BY  `year`) as c
 GROUP BY driverRef
+
+-- Quantas corridas cada piloto disputou
+SELECT count(resultado.raceId) as numeroCorridas, driverRef FROM raceschamp
+INNER JOIN resultschamp AS resultado
+ON resultado.raceId = raceschamp.raceId
+INNER JOIN driverschamp AS pilotos
+ON pilotos.driverId= resultado.driverId
+GROUP BY driverRef
+ORDER BY numeroCorridas DESC
+
+-- Quem disputou mais corridas 
+SELECT count(resultado.raceId) as numeroCorridas, driverRef FROM raceschamp
+INNER JOIN resultschamp AS resultado
+ON resultado.raceId = raceschamp.raceId
+INNER JOIN driverschamp AS pilotos
+ON pilotos.driverId= resultado.driverId
+GROUP BY driverRef
+ORDER BY numeroCorridas DESC
+LIMIT 1
+
+-- Quantidade de equipe por nacionalidade 
+SELECT nationality as Nacionalidade, count(nationality) as Ocorrências
+FROM f1_champs.constructorschamp
+group by Nacionalidade
+having count(nationality)
+order by Ocorrências DESC 
+
+
+
 
 
 
