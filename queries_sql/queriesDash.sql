@@ -123,5 +123,18 @@ FROM (SELECT
 	GROUP BY 
 		PILOTO
  
- 
+-- 6. Número de voltas em provas que cada piloto campeão fez durante sua carreira
+
+SELECT 
+	driverschamp.driverRef AS PILOTO, 
+	sum(resultschamp.laps) AS `Somatório de todas as voltas em provas`
+FROM 
+	driverschamp
+LEFT JOIN 
+	resultschamp  
+ON driverschamp.driverId = resultschamp.driverId
+GROUP BY 
+	driverschamp.driverRef
+ORDER BY 
+	`Somatório de todas as voltas em provas` DESC, driverschamp.driverRef ASC
  
