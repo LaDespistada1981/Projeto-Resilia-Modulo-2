@@ -2,13 +2,19 @@
 ## Sobre nós
   <hr>
   
-Texto descritivo da equipe
+Este é um trabalho de conclusão do módulo de sql e análise de dados do curso Resília Educação.
+É um trabalho desenvolvido por um grupo de apaixonados por tecnologia sobre um dos esportes mais fascinantes e tradicionais com uma trajetória de 7 décadas de competições.
  
 
 ## O que fazemos?
-<hr>
+<hr
 
-Texto descrevendo o projeto
+Nosso projeto baseia-se na análise de dados de Fórmula 1 desde seu início em 1950 a 2017. 
+Analisamos 7 décadas de história através da trajetória e feitos de seus campeões mundiais ao longo das temporadas 1950-2017, desde o primeiro campeão, o italiano Nino Farina ao atual campeão, o britânico Lewis Hamilton.
+
+Nesse repositório disponibilizamos nossa base de dados original e a base que tratamos a partir de nosso recorte de análise.
+
+Deixamos aqui também nossa infra do docker compose para que qquer pessoa consiga ter acesso ao nosso dashboard dinâmico feito no Metabase e consiga ter assim a melhor experiência de usuário possível.
 
 
 <hr>
