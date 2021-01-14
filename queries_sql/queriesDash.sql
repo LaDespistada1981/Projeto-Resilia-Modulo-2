@@ -123,7 +123,7 @@ FROM (SELECT
 	GROUP BY 
 		PILOTO
  
--- 6. Número de voltas em provas que cada piloto campeão fez durante sua carreira
+-- 7. Número de voltas em provas que cada piloto campeão fez durante sua carreira
 
 SELECT 
 	driverschamp.driverRef AS PILOTO, 
@@ -137,4 +137,10 @@ GROUP BY
 	driverschamp.driverRef
 ORDER BY 
 	`Somatório de todas as voltas em provas` DESC, driverschamp.driverRef ASC
- 
+
+ -- 8. Nacionalidade x equipes 
+SELECT nationality as Nacionalidade, count(nationality) as Ocorrências
+FROM f1_champs.driverschamp
+group by Nacionalidade
+having count(nationality)
+order by Ocorrências DESC
