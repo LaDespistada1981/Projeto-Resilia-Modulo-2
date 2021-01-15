@@ -19,7 +19,7 @@ Deixamos aqui também nossa infra do docker compose para que qquer pessoa consig
 
 ## Link para apresentação
 <hr>
-[Apresentação] <a href='ttps://www.canva.com/design/DAES8yO6Sec/MwGqPBeOJTWy92oVVxGJ2g/view?utm_content=DAES8yO6Sec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton'>Apresentação - canvas</a>
+- [Apresentação] - (https://www.canva.com/design/DAES8yO6Sec/MwGqPBeOJTWy92oVVxGJ2g/view?utm_content=DAES8yO6Sec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <hr>
 
